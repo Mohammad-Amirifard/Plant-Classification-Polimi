@@ -8,5 +8,5 @@
    
 3) 3rd notebook tries to use more advanced CNNs on our problem, using transfer learning and fine tuning methods.
    
-4) report.pdf file is a report of what we have done and it shws the progress of whole program.
+4) report.pdf file is a report of what we have done and it shows the progress of whole program.
 
