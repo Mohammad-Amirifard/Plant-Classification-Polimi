@@ -3,10 +3,10 @@
 ```
 - 📦 Plant Classification problem
   |- 📄 README.md        #Guide file
-  |- 📂 data             #Here you can see datasets.
-  |- 📂 Notebooks        #Here you can see a Main.ipynb which is the main file. You can run it on Google Colab
-  |- 📂 Submissions      #Here you can see a zip file which is appropraite to upload in Coda Lab
-  |- 📂 Report           #Here you can see a complete report of what we have done in Main.ipynb
+  |- 📂 data             #Here you can see dataset link.
+  |- 📂 Notebooks        #Here you can see jupyter files which should be run on Google Colab.
+  |- 📂 Submissions      #Here you can see a zip file link which is appropraite to upload in Coda Lab
+  |- 📂 Report           #Here you can see a complete report of what we have done.
 ```
 
 
