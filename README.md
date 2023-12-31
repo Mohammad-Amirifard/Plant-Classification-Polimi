@@ -32,7 +32,7 @@ containing the 'public_data.npz' file. The file contains the following items:
 'labels': 1-dimensional numpy array of shape 5200 with values in {'healthy', 'unhealthy'}
 
 # Data Download:
-You can access and download dataset from this [https://drive.google.com/file/d/1fA3GMxgyhNHlPKDiwlkYhoJZFpAqVAMb/view?usp=sharing](link).
+You can access and download dataset from this [link](https://drive.google.com/file/d/1fA3GMxgyhNHlPKDiwlkYhoJZFpAqVAMb/view?usp=sharing).
 
 # Data Loading:
 The provided dataset is in zip format. 
