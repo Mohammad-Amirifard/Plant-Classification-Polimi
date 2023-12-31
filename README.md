@@ -4,9 +4,9 @@
 - 📦 Plant Classification problem
   |- 📄 README.md        #Guide file
   |- 📂 data             #Here you can see dataset link.
-  |- 📂 Notebooks        #Here you can see jupyter files which should be run on Google Colab.
-  |- 📂 Submissions      #Here you can see a zip file link which is appropraite to upload in Coda Lab
-  |- 📂 Report           #Here you can see a complete report of what we have done.
+  |- 📂 notebooks        #Here you can see jupyter files which should be run on Google Colab.
+  |- 📂 submission       #Here you can see a zip file link which is appropraite to upload in Coda Lab
+  |- 📂 report           #Here you can see a complete report of what we have done.
 ```
 
 
