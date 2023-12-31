@@ -1,12 +1,43 @@
-# Guide on Plant Classification problem:
+
+# Rpository Structure:
+```
+- 📦 Plant Classification problem
+  |- 📄 README.md        #Guide file
+  |- 📂 data             #Here you can see datasets.
+  |- 📂 Notebooks        #Here you can see a Main.ipynb which is the main file. You can run it on Google Colab
+  |- 📂 Submissions      #Here you can see a zip file which is appropraite to upload in Coda Lab
+  |- 📂 Report           #Here you can see a complete report of what we have done in Main.ipynb
+```
+
+
+# Project Detail
+
+**Problem**: Categorizing Healthy Plants Vs Unhealthy ones 
+
+**Goal**: The task is to develop a model that is able to classify plants that are divided into two categories according to their state of health. It is a binary classification problem, so the goal is to predict the correct class label in {0, 1}.
+
+# Dataset Detail:
+**Image size:** 96x96
+**Color space:** RGB
+**File Format:** npz
+**Number of classes:** 2
+**Classes:**
+0: "healthy"
+1: "unhealthy"
+
+# Dataset Structure:
+containing the 'public_data.npz' file. The file contains the following items:
+'data': numpy array of shape 5100x96x96x3, containing the RGB images.
+'data': 3-dimensional numpy array of shape 5200x96x96x3, containing the RGB images.
+'labels': 1-dimensional numpy array of shape 5200 with values in {'healthy', 'unhealthy'}
+
+# Data Download:
+You can access and download dataset from this [https://drive.google.com/file/d/1fA3GMxgyhNHlPKDiwlkYhoJZFpAqVAMb/view?usp=sharing](link).
+
+# Data Loading:
+The provided dataset is in zip format. 
+
+
 **You should run notebooks, using google colab platforms. Since they have been written in this platforms.**
 
-
-1) Part1_Plant_Classification_EDA.ipynb includes EDA part on dataset. You can find dataset and other files in this link: <https://drive.google.com/drive/folders/1CzLGEZA7S0WhyVMTMUM-j4J6ptd6WyOx?usp=sharing>
-   
-2) Part2_Simple_Models_In_Plant_Classification.ipynb tries to use simple Convlutional neural networks on our problem
-   
-3) 3rd notebook tries to use more advanced CNNs on our problem, using transfer learning and fine tuning methods.
-   
-4) [Report](Report.pdf) file is a report of what we have done and it shows the progress of whole program.
 
